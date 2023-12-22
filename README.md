@@ -23,11 +23,30 @@ In the initial phase, I performed the following tasks:
 ## Exploratory Data Analysis(Problem Statement)
 - What is the overall level of customer satisfaction?
 - What is the most common reason for call centre interactions?
-- Which channels have the best response time?
+- How fast do customers get response from each channel?
 - Which call centre processed the most calls
 - What is the performance of each channel?
 
 ### Overall level of customer satisfaction
-![](satisfaction_levels_per_channel.png)
+![](customer_satisfaction_levels.png)
 
 ### Reason for call centre interactions
+![](reason_for_call.png)
+
+### Rate of response per channel
+![](response_rate_per_channel.png)
+
+### Call center volume by location
+![](call_center_volume_by_location.png)
+
+### Channel Performance
+![](satisfaction_levels_per_channel.png)
+
+## Results
+The results from our analysis shows that a lot of customers are unsatisfied with the service they receive. 
+- 71% of calls to the call centre were due to billing problems
+- 51.87% of customers left a negative review, while 21.54% left a positive review, the rest (26.59%) were indifferent to the level of service they received.
+- The Los Angeles call centre processed the most calls with 42% of calls. 
+
+## Limitations and Reccommedations. 
+ The information in the dataset gives a limited view of what's happening which makes it hard to pinpoint customers are so dissatisfied. The analysis brings up more questions like why do so many people have billing issues? Is it a problem with the payment gateway or something else? I recommend collecting more data to give us a broader view of what's going on.
