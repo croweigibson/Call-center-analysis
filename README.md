@@ -27,20 +27,10 @@ In the initial phase, I performed the following tasks:
 - Which call centre processed the most calls
 - What is the performance of each channel?
 
-### Overall level of customer satisfaction
-![](customer_satisfaction_levels.png)
+## Dashboard Analysis
 
-### Reason for call centre interactions
-![](reason_for_call.png)
+The results from the analysis can be seen in the [Call Center Report](https://github.com/croweigibson/Call-center-analysis/blob/38adf5d2d88f79d6714f7900d5011d38aaa1eef0/Call%20center%20report.pbix)
 
-### Rate of response per channel
-![](response_rate_per_channel.png)
-
-### Call center volume by location
-![](call_center_volume_by_location.png)
-
-### Channel Performance
-![](satisfaction_levels_per_channel.png)
 
 ## Results
 The results from our analysis shows that a lot of customers are unsatisfied with the service they receive. 
