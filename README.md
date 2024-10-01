@@ -8,7 +8,7 @@ This is a project on the call centre analysis of an imaginary eCommerce company 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country_. 
 
 ## Data Source
-Call Center Data: The primary dataset used for this analysis is the ([Call Center.csv](https://github.com/Crowei-Gibson/Call-center-analysis#:~:text=2%20Commits-,Call%20Center.csv,-uploading%20files)), containing information about the company's call centre for October.
+Call Center Data: The primary dataset used for this analysis is the ([dataset](https://github.com/Crowei-Gibson/Call-center-analysis#:~:text=2%20Commits-,Call%20Center.csv,-uploading%20files)), containing information about the company's call centre for October.
 
 ## Tools Used
 - Excel
