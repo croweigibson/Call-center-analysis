@@ -31,6 +31,9 @@ In the initial phase, I performed the following tasks:
 
 The results from the analysis can be seen in the [Call Center Report](https://github.com/croweigibson/Call-center-analysis/blob/38adf5d2d88f79d6714f7900d5011d38aaa1eef0/Call%20center%20report.pbix)
 
+![Fig 1: Image of Call Center Dashboard](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j9ntrba1hq3c9ewu88y3.png)
+Example in Your README
+
 
 ## Results
 The results from our analysis shows that a lot of customers are unsatisfied with the service they receive. 
